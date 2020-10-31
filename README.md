@@ -1,1 +1,1 @@
-This project is a study to solidify my next.js knowledge
+This project is a study to solidify my next.js knowledge :)
